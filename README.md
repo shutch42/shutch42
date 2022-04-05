@@ -6,7 +6,8 @@
  
 ## About Me:  
 #### Education:
-I'm a Computer Science major at Southern Illinois University Edwardsville  
+- I'm a Computer Science major at Southern Illinois University Edwardsville
+- I have minors in Physics, Math, and Computer Engineering
 #### Career:
 - I currently work as a Teaching Assistant for a Statistics Lab where I teach people to program in R/Rstudio.  
 - I will be starting an internship with Caterpillar this summer in the field of simulation programming.
