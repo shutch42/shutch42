@@ -26,7 +26,7 @@
 - Algorithms
 - Multithreading
 - Computer Graphics
-#### 🚲 In my free time I like to:
+#### 🚴‍♂️ In my free time I like to:
 - Bike
 - Play guitar
 - Build Things!
